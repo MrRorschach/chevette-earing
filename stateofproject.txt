@@ -1,0 +1,7 @@
+As of September 30th, 2015, I have determined the bean will not work as it is not a central BlueTooth LE device but a peripheral BTLE device which means it cannot communicate with other devices but must be reached from the primary device.
+
+Might look at the RFduino as an option. not sure.
+
+Project is currently on indefinite hold.
+
+I am eating pizza.
